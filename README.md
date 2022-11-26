@@ -5,16 +5,10 @@ TS implementation of [Conway's game of life](https://en.wikipedia.org/wiki/Conwa
 ## Installation
 
 ```bash
-
 npm i
-
 # or
-
 pnpm install
-
-
 #or
-
 yarn install
 
 ```
